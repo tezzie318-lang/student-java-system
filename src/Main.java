@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// 这是一个新功能的测试
+
 public class Main {
     public static void main(String[] args) {
         // 创建管理器对象
